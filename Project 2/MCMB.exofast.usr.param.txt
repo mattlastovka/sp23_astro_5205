@@ -1,0 +1,35 @@
+\ 
+\ Median Values and 68% Confidence Interval for EXOFAST Calculation
+\ 
+\ Title: EXOFAST-001-mcmb
+\ Date : Mon Feb 20 10:38:27 2023
+\ Fit Type: MCMC
+\ 
+|symbol  | parameter                               | units                   | value           | upper_error     | lower_error     |
+|char    | char                                    | char                    | double          | double          | double          |
+ M*        Stellar Mass                              Msun                              0.850151          0.019089          0.017520 
+ R*        Stellar Radius                            Rsun                              0.857232          0.052922          0.049111 
+ L*        Stellar Luminosity                        Lsun                              0.429898          0.055427          0.048342 
+ rho*      Stellar Density                           cgs                               1.903784          0.346810          0.293534 
+ logg*     Stellar Surface Gravity                   cgs                               4.489111          0.049173          0.048106 
+ Teff      Effective Temperature                     K                              5051.898529         16.549857         16.189607 
+ FeH       Metallicity                               none                              0.017688          0.080684          0.075138 
+ e         Eccentricity                              none                              0.020038          0.021433          0.014137 
+ omega     Argument of Periastron                    degrees                          75.071964         86.021291         96.867100 
+ P         Period                                    days                              2.218665          0.000061          0.000062 
+ a         Semi-Major Axis                           AU                                0.031531          0.000234          0.000218 
+ Teq       Equilibrium Temperature                   K                              1269.863671         36.472154         34.666733 
+ Fave      Incident Flux                             10^9 ergs s^-1 cm^-2              0.589322          0.070552          0.061959 
+ ecosw     e cosine omega                            none                              0.000000          0.018961          0.017832 
+ esinw     e sine omega                              none                              0.006533          0.021323          0.011716 
+ TP        Time of Periastron                        BJD                         2453935.593318          0.561057          0.501209 
+ K         RV Semi-Amplitude                         m/s                             203.918582          6.060702          6.474450 
+ Mpsini    Minimum Mass                              Mj                                1.175263          0.039145          0.040110 
+ Mp/M*     Mass Ratio                                none                              0.001319          0.000041          0.000043 
+ gamma     Systemic Velocity                         m/s                             -12.099306          4.610829          4.419804 
+ TC        Time of Transit                           BJD                         2453935.572657          0.011742          0.012036 
+ T14       Total Duration                            days                              0.088632          0.005314          0.005072 
+ PTG       A Priori Transit Prob                     none                              0.127666          0.007934          0.007278 
+ TS        Time of Eclipse                           BJD                         2453934.463649          0.019216          0.019117 
+ PS        A Priori Non-Grazing Eclipse Prob         none                              0.090327          0.005616          0.005168 
+ PSG       A Priori Eclipse Prob                     none                              0.125276          0.007468          0.007100 

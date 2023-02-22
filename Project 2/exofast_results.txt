@@ -1,0 +1,23 @@
+/exo/cm/idl/bin/bin.linux.x86_64/idl: /exo/cm/python_env/3.9.7/lib/libuuid.so.1: no version information available (required by /usr/lib64/libSM.so.6)
+IDL Version 8.2.3 (linux x86_64 m64). (c) 2013, Exelis Visual Information Solutions, Inc.
+
+ 
+******************************************
+Running ExoFAST Operational Version (v1.7)
+******************************************
+
+Best peaks in the RV fit:
+      T_C             Period         ecosw         esinw         K           gamma           slope       chi^2       chi^2/dof
+2453935.570977      2.218666      0.002265      0.019298    202.284033    -11.804028      0.000000  21650.831495    267.294216
+Chi^2/dof = 267.29422
+Scaling errors by 16.416735
+
+Combined fit:
+Chi^2 of RV data = 80.334297 (86 data points)
+Chi^2 of Priors = 1.8807910e-33 (3 priors)
+Chi^2/dof = 1.0433026
+
+
+
+EXOFAST_DEMC: done in 6.41 seconds; took 21.92% of trial steps
+Synthesizing results; for long chains and/or many fitted parameters, this may take up to 15 minutes
